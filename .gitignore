@@ -1,0 +1,30 @@
+# Build artifacts
+dist/
+dist-electron/
+coverage/
+
+# Dependencies
+node_modules/
+vendor/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
